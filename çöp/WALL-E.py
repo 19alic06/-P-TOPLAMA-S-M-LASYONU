@@ -15,7 +15,7 @@ konusuyor = False # KONUŞMUYORSA DEGYERİ FALSE DIR
 ayrisma_basladi = False # ---- AYRİŞTİRMA BUTTONUNA BASINMADIĞI SÜRECE FALSE DIR
 dolum_zamanlari = {}
 tutulan_cop_id = None
-ana_yol = r"C:\Users\alico\Desktop\kodlar\çöp\\" # ÇÖP RESİMLERİN ANA YOLUDUR
+ana_yol = r"C:\\\" # ÇÖP RESİMLERİN ANA YOLUDUR
 font_path = "C:/Windows/Fonts/arial.ttf"#  RESİMLERİN ANA YOLUDUR
 LIMIT = 22 # ÇÖP LİMİTİ DIR 
 
